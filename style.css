@@ -67,7 +67,7 @@ body {
   }
 }
 .header-menu {
-  display: none;
+  /* display: none; */
   font-size: 35px;
   color: white;
 }
