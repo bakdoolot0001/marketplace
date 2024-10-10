@@ -1155,7 +1155,7 @@ body {
   .nav {
     a,
     button {
-      /* display: none; */
+      display: none;
     }
   }
   .header-menu {
